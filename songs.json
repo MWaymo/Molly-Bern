@@ -1,0 +1,23 @@
+[
+ {
+  "slug": "aries",
+  "title": "Aries",
+  "album": "0% Contained 100% Untamed",
+  "mile": 1,
+  "explicit": false
+ },
+ {
+  "slug": "lonely-coyote",
+  "title": "Lonely Coyote",
+  "album": "Desert Bloom",
+  "mile": 14,
+  "explicit": false
+ },
+ {
+  "slug": "quiero-todo-hoy",
+  "title": "Quiero Todo Hoy",
+  "album": "Desert Bloom",
+  "mile": 6,
+  "explicit": false
+ }
+]
