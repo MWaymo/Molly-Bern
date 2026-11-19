@@ -21,6 +21,13 @@
   "explicit": false
  },
  {
+  "slug": "atlantis",
+  "title": "Atlantis",
+  "album": "Berning Both Ends",
+  "mile": 10,
+  "explicit": false
+ },
+ {
   "slug": "beware-the-phone-rots-an-ode-to-john-prine",
   "title": "Beware the Phone Rots",
   "album": "Berning Both Ends",
@@ -35,6 +42,20 @@
   "explicit": false
  },
  {
+  "slug": "burned-all-night",
+  "title": "Burned All Night",
+  "album": "Berning Both Ends",
+  "mile": 15,
+  "explicit": false
+ },
+ {
+  "slug": "call-it-madness",
+  "title": "Call It Madness",
+  "album": "Berning Both Ends",
+  "mile": 16,
+  "explicit": false
+ },
+ {
   "slug": "cartwheels",
   "title": "Cartwheels",
   "album": "0% Contained 100% Untamed",
@@ -46,6 +67,13 @@
   "title": "Controlled Burn",
   "album": "0% Contained 100% Untamed",
   "mile": 10,
+  "explicit": false
+ },
+ {
+  "slug": "cyclone",
+  "title": "Cyclone",
+  "album": "Berning Both Ends",
+  "mile": 9,
   "explicit": false
  },
  {
@@ -84,6 +112,13 @@
   "explicit": false
  },
  {
+  "slug": "irons-in-the-fire",
+  "title": "Irons in the Fire",
+  "album": "Berning Both Ends",
+  "mile": 14,
+  "explicit": false
+ },
+ {
   "slug": "laissez-les-bons-temps-rouler",
   "title": "Laissez Les Bons Temps Rouler",
   "album": "Berning Both Ends",
@@ -109,6 +144,13 @@
   "title": "Luck of the Draw",
   "album": "0% Contained 100% Untamed",
   "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "mezcal-moon",
+  "title": "Mezcal Moon",
+  "album": "Berning Both Ends",
+  "mile": 8,
   "explicit": false
  },
  {
@@ -147,6 +189,13 @@
   "explicit": false
  },
  {
+  "slug": "sisters-cosmic",
+  "title": "Sisters Cosmic",
+  "album": "Berning Both Ends",
+  "mile": 12,
+  "explicit": false
+ },
+ {
   "slug": "smoke-and-sin",
   "title": "Smoke and Sin",
   "album": "Berning Both Ends",
@@ -164,6 +213,20 @@
   "slug": "steal-away",
   "title": "Steal Away",
   "album": "0% Contained 100% Untamed",
+  "mile": 13,
+  "explicit": false
+ },
+ {
+  "slug": "take-me-to-infinity",
+  "title": "Take Me to Infinity",
+  "album": "Berning Both Ends",
+  "mile": 11,
+  "explicit": false
+ },
+ {
+  "slug": "tomorrows-problem",
+  "title": "Tomorrow’s Problem",
+  "album": "Berning Both Ends",
   "mile": 13,
   "explicit": false
  },
@@ -200,6 +263,13 @@
   "title": "Zero Percent Contained",
   "album": "0% Contained 100% Untamed",
   "mile": 3,
+  "explicit": false
+ },
+ {
+  "slug": "zivjeli",
+  "title": "Živjeli",
+  "album": "Berning Both Ends",
+  "mile": 17,
   "explicit": false
  }
 ]
