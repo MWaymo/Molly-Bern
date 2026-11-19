@@ -124,6 +124,9 @@ footer p{margin:0}
   .tt{font-size:1.2rem}
 }
 @media (prefers-reduced-motion: reduce){ *{transition:none!important} }
+.tt a{color:inherit;text-decoration-line:underline;text-decoration-color:var(--accent);text-decoration-thickness:2px;text-underline-offset:5px}
+.tt a:hover{color:var(--accent)}
+.lyr{font-family:var(--label);font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin-left:10px;vertical-align:middle;font-weight:400}
 </style>
 
 <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><filter id="grit" x="-2%" y="-5%" width="104%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="2" seed="5" result="w"/><feDisplacementMap in="SourceGraphic" in2="w" scale="2" result="r"/><feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" seed="2" result="s"/><feColorMatrix in="s" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3.2 0 0 0 -0.04" result="h"/><feComposite in="r" in2="h" operator="in"/></filter></defs></svg>
@@ -428,4 +431,21 @@ footer p{margin:0}
 </footer>
 </div>
 
+<script>
+(function(){
+  function slug(t){return t.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/['\u2019\u2018]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');}
+  fetch('lyrics/songs.json').then(function(r){return r.ok?r.json():[];}).then(function(list){
+    var have={};list.forEach(function(e){have[e.slug]=1;});
+    document.querySelectorAll('.track .tt').forEach(function(tt){
+      var n=tt.firstChild;if(!n||n.nodeType!==3)return;
+      var title=n.nodeValue.trim(),sl=slug(title);if(!have[sl])return;
+      var a=document.createElement('a');a.href='lyrics/'+sl+'.html';a.textContent=n.nodeValue;
+      a.setAttribute('aria-label',title+' lyrics');
+      tt.replaceChild(a,n);
+      var l=document.createElement('span');l.className='lyr';l.setAttribute('aria-hidden','true');l.textContent='lyrics';
+      a.after(l);
+    });
+  }).catch(function(){});
+})();
+</script>
 </body></html>
