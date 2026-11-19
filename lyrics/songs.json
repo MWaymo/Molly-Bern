@@ -84,6 +84,20 @@
   "explicit": false
  },
  {
+  "slug": "brain-on-fire",
+  "title": "Brain On Fire",
+  "album": "Zero Predictions",
+  "mile": 6,
+  "explicit": false
+ },
+ {
+  "slug": "break-the-chain",
+  "title": "Break the Chain",
+  "album": "Zero Predictions",
+  "mile": 16,
+  "explicit": false
+ },
+ {
   "slug": "burlington",
   "title": "Burlington",
   "album": "Old Dog, New Tricks",
@@ -102,6 +116,13 @@
   "title": "Call It Madness",
   "album": "Berning Both Ends",
   "mile": 16,
+  "explicit": false
+ },
+ {
+  "slug": "call-me-mediocre",
+  "title": "Call Me Mediocre",
+  "album": "Zero Predictions",
+  "mile": 1,
   "explicit": false
  },
  {
@@ -137,6 +158,13 @@
   "title": "Disco!",
   "album": "Ashes to Glitter",
   "mile": 17,
+  "explicit": false
+ },
+ {
+  "slug": "disturbed-child",
+  "title": "Disturbed Child",
+  "album": "Zero Predictions",
+  "mile": 5,
   "explicit": false
  },
  {
@@ -245,6 +273,13 @@
   "explicit": false
  },
  {
+  "slug": "in-my-head",
+  "title": "In My Head",
+  "album": "Zero Predictions",
+  "mile": 4,
+  "explicit": false
+ },
+ {
   "slug": "irons-in-the-fire",
   "title": "Irons in the Fire",
   "album": "Berning Both Ends",
@@ -308,6 +343,13 @@
   "explicit": false
  },
  {
+  "slug": "made-of-glass",
+  "title": "Made of Glass",
+  "album": "Zero Predictions",
+  "mile": 12,
+  "explicit": false
+ },
+ {
   "slug": "mezcal-moon",
   "title": "Mezcal Moon",
   "album": "Berning Both Ends",
@@ -347,6 +389,20 @@
   "title": "Nothing’s Been Found",
   "album": "Berning Both Ends",
   "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "paper-crown",
+  "title": "Paper Crown",
+  "album": "Zero Predictions",
+  "mile": 14,
+  "explicit": false
+ },
+ {
+  "slug": "passing-ships",
+  "title": "Passing Ships",
+  "album": "Zero Predictions",
+  "mile": 13,
   "explicit": false
  },
  {
@@ -406,6 +462,13 @@
   "explicit": false
  },
  {
+  "slug": "simmer-down",
+  "title": "Simmer Down",
+  "album": "Zero Predictions",
+  "mile": 9,
+  "explicit": false
+ },
+ {
   "slug": "sisters-cosmic",
   "title": "Sisters Cosmic",
   "album": "Berning Both Ends",
@@ -417,6 +480,13 @@
   "title": "Smoke and Sin",
   "album": "Berning Both Ends",
   "mile": 5,
+  "explicit": false
+ },
+ {
+  "slug": "somebody-done-me-wrong",
+  "title": "Somebody Done Me Wrong",
+  "album": "Zero Predictions",
+  "mile": 8,
   "explicit": false
  },
  {
@@ -445,6 +515,27 @@
   "title": "Take Me to Infinity",
   "album": "Berning Both Ends",
   "mile": 11,
+  "explicit": false
+ },
+ {
+  "slug": "thanks-for-the-wipers",
+  "title": "Thanks for the Wipers",
+  "album": "Zero Predictions",
+  "mile": 7,
+  "explicit": false
+ },
+ {
+  "slug": "this-is-the-crumbling",
+  "title": "This Is The Crumbling",
+  "album": "Zero Predictions",
+  "mile": 3,
+  "explicit": false
+ },
+ {
+  "slug": "to-exist-is-to-persist",
+  "title": "To Exist Is To Persist",
+  "album": "Zero Predictions",
+  "mile": 10,
   "explicit": false
  },
  {
@@ -483,10 +574,31 @@
   "explicit": false
  },
  {
+  "slug": "vice-versa",
+  "title": "Vice Versa",
+  "album": "Zero Predictions",
+  "mile": 15,
+  "explicit": false
+ },
+ {
+  "slug": "walking-contradiction",
+  "title": "Walking Contradiction",
+  "album": "Zero Predictions",
+  "mile": 2,
+  "explicit": false
+ },
+ {
   "slug": "wearing-the-good-dress",
   "title": "Wearing the Good Dress",
   "album": "Ashes to Glitter",
   "mile": 12,
+  "explicit": false
+ },
+ {
+  "slug": "what-a-goddess-you-are",
+  "title": "What A Goddess You Are",
+  "album": "Zero Predictions",
+  "mile": 11,
   "explicit": false
  },
  {
