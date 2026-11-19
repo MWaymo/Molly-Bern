@@ -21,6 +21,13 @@
   "explicit": false
  },
  {
+  "slug": "beware-the-phone-rots-an-ode-to-john-prine",
+  "title": "Beware the Phone Rots",
+  "album": "Berning Both Ends",
+  "mile": 6,
+  "explicit": false
+ },
+ {
   "slug": "blondes-have-more-fun",
   "title": "Blondes Have More Fun",
   "album": "0% Contained 100% Untamed",
@@ -61,6 +68,13 @@
   "album": "0% Contained 100% Untamed",
   "mile": 14,
   "explicit": true
+ },
+ {
+  "slug": "hurricane-dynamite",
+  "title": "Hurricane Dynamite",
+  "album": "Berning Both Ends",
+  "mile": 7,
+  "explicit": false
  },
  {
   "slug": "if-walls-could-talk",
@@ -130,6 +144,13 @@
   "title": "Same Black Dress",
   "album": "0% Contained 100% Untamed",
   "mile": 11,
+  "explicit": false
+ },
+ {
+  "slug": "smoke-and-sin",
+  "title": "Smoke and Sin",
+  "album": "Berning Both Ends",
+  "mile": 5,
   "explicit": false
  },
  {
