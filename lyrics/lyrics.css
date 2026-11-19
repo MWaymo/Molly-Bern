@@ -1,0 +1,89 @@
+@font-face{font-family:'Anton';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/anton-400.woff2) format('woff2')}
+@font-face{font-family:'Special Elite';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/special-elite-400.woff2) format('woff2')}
+@font-face{font-family:'Bitter';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/bitter-400.woff2) format('woff2')}
+@font-face{font-family:'Bitter';font-style:italic;font-weight:400;font-display:swap;src:url(fonts/bitter-400-italic.woff2) format('woff2')}
+@font-face{font-family:'Bitter';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/bitter-600.woff2) format('woff2')}
+@font-face{font-family:'Bitter';font-style:italic;font-weight:600;font-display:swap;src:url(fonts/bitter-600-italic.woff2) format('woff2')}
+@font-face{font-family:'Bitter';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/bitter-600-ext.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+
+/* Molly Bern lyric pages: same desert-highway look as the main site. */
+:root{
+  color-scheme:light;
+  --bg:#f2e6cc; --bg2:#e7d4ac; --fg:#2a1a12; --muted:#6a5240; --accent:#a8481f;
+  --glow:#e9a850; --line:rgba(42,26,18,.24); --card:#f8eed8;
+  --display:'Anton','Impact','Arial Narrow',sans-serif; --label:'Special Elite','Courier New',monospace; --body:'Bitter','Rockwell',Georgia,serif;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#160e0a; --bg2:#22150e; --fg:#f1e4c8; --muted:#bba384; --accent:#f0a24e;
+    --glow:#b4532b; --line:rgba(241,228,200,.2); --card:#1e130d; color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#160e0a; --bg2:#22150e; --fg:#f1e4c8; --muted:#bba384; --accent:#f0a24e;
+  --glow:#b4532b; --line:rgba(241,228,200,.2); --card:#1e130d; color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{
+  margin:0; background:var(--bg); color:var(--fg); font-family:var(--body); font-size:17px; line-height:1.65;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+  padding-left:max(16px, env(safe-area-inset-left, 0px)); padding-right:max(16px, env(safe-area-inset-right, 0px));
+}
+.wrap{max-width:1040px; margin:0 auto}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--accent); outline-offset:3px}
+
+header{display:flex; flex-wrap:wrap; gap:.5rem 1.5rem; justify-content:space-between; align-items:baseline; padding-block:20px}
+.mark{font-family:var(--display); font-size:1.5rem; line-height:1; letter-spacing:.06em; text-decoration:none; text-transform:uppercase}
+nav{display:flex; flex-wrap:wrap; gap:.25rem 1.4rem; font-family:var(--label); font-size:.9rem; letter-spacing:.12em; text-transform:uppercase}
+nav a{text-decoration:none; color:var(--muted); padding-block:4px; border-bottom:2px solid transparent}
+nav a:hover{color:var(--fg); border-bottom-color:var(--accent)}
+
+.road{height:4px; background:repeating-linear-gradient(90deg, var(--accent) 0 30px, transparent 30px 60px); opacity:.85}
+
+.song{display:grid; grid-template-columns:minmax(0,320px) minmax(0,1fr); gap:clamp(28px,6vw,80px); align-items:start; padding-block:clamp(32px,6vw,72px) clamp(40px,7vw,88px)}
+.meta{position:sticky; top:24px}
+.cover{margin:0 0 22px}
+.cover img{display:block; width:100%; height:auto; aspect-ratio:1/1; background:var(--bg2); box-shadow:0 24px 48px -20px rgba(0,0,0,.55), 0 4px 0 rgba(0,0,0,.08)}
+.label{font-family:var(--label); font-size:.9rem; letter-spacing:.2em; text-transform:uppercase; color:var(--accent); margin:0 0 10px}
+.label a{text-decoration:none; border-bottom:2px solid transparent}
+.label a:hover{border-bottom-color:var(--accent)}
+h1{font-family:var(--display); font-weight:400; text-transform:uppercase; font-size:clamp(2.6rem,6.5vw,4.2rem); line-height:.98; letter-spacing:.02em; margin:0 0 18px; text-wrap:balance; overflow-wrap:anywhere; filter:url(#grit)}
+.exp{display:inline-block; font-family:var(--label); font-size:.72rem; line-height:1; border:1.5px solid var(--muted); color:var(--muted); padding:3px 5px 2px; margin-left:10px; vertical-align:middle; font-weight:400; letter-spacing:.06em}
+.listen{margin:0; font-family:var(--label); font-size:.92rem; letter-spacing:.1em; text-transform:uppercase}
+.listen a{text-decoration:none; border-bottom:2px solid var(--accent); padding-bottom:2px}
+.listen a:hover{color:var(--accent)}
+
+.lyrics{max-width:44ch}
+.stanza{margin:0 0 2.1rem}
+.stanza h2{font-family:var(--label); font-weight:400; font-size:.82rem; letter-spacing:.2em; text-transform:uppercase; color:var(--accent); margin:0 0 .5rem}
+.stanza p{margin:0; font-size:1.2rem; line-height:1.75}
+
+/* lyrics index page */
+.listing{padding-block:clamp(32px,6vw,72px) clamp(40px,7vw,88px)}
+.listing h1{margin-bottom:10px}
+.listing .intro{color:var(--muted); margin:0 0 36px; max-width:52ch}
+.listing h2{font-family:var(--display); font-weight:400; text-transform:uppercase; letter-spacing:.03em; font-size:clamp(1.6rem,4vw,2.2rem); line-height:1; margin:40px 0 6px}
+.songs{list-style:none; margin:14px 0 0; padding:0; border-top:2px solid var(--fg)}
+.songs li{display:grid; grid-template-columns:6.5rem minmax(0,1fr); gap:4px 20px; align-items:baseline; padding:13px 6px; border-bottom:1px solid var(--line)}
+.songs li:hover{background:var(--card)}
+.songs .mile{font-family:var(--label); font-size:.88rem; letter-spacing:.14em; text-transform:uppercase; color:var(--accent)}
+.songs a{font-size:1.25rem; font-weight:600; line-height:1.25; text-decoration:underline; text-decoration-color:var(--accent); text-decoration-thickness:2px; text-underline-offset:5px; overflow-wrap:anywhere}
+.songs a:hover{color:var(--accent)}
+
+footer{padding-block:34px 44px; font-family:var(--label); font-size:.88rem; letter-spacing:.08em; color:var(--muted); display:flex; flex-wrap:wrap; justify-content:space-between; gap:8px 24px; border-top:1px dashed var(--line)}
+footer p{margin:0}
+
+@media (max-width:820px){
+  .song{grid-template-columns:minmax(0,1fr)}
+  .meta{position:static}
+  .cover{max-width:280px}
+  .lyrics{max-width:none}
+}
+@media (max-width:620px){
+  body{font-size:16px}
+  .stanza p{font-size:1.12rem}
+  .songs li{grid-template-columns:5.2rem minmax(0,1fr); padding:12px 2px}
+}
+@media (prefers-reduced-motion: reduce){ *{transition:none!important} }
