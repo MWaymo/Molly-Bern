@@ -1,10 +1,52 @@
 [
  {
+  "slug": "alice-palace",
+  "title": "Alice Palace",
+  "album": "0% Contained 100% Untamed",
+  "mile": 12,
+  "explicit": false
+ },
+ {
   "slug": "aries",
   "title": "Aries",
   "album": "0% Contained 100% Untamed",
   "mile": 1,
   "explicit": false
+ },
+ {
+  "slug": "cartwheels",
+  "title": "Cartwheels",
+  "album": "0% Contained 100% Untamed",
+  "mile": 9,
+  "explicit": false
+ },
+ {
+  "slug": "controlled-burn",
+  "title": "Controlled Burn",
+  "album": "0% Contained 100% Untamed",
+  "mile": 10,
+  "explicit": false
+ },
+ {
+  "slug": "extra-salt",
+  "title": "Extra Salt",
+  "album": "0% Contained 100% Untamed",
+  "mile": 8,
+  "explicit": true
+ },
+ {
+  "slug": "fire-in-my-belly",
+  "title": "Fire in My Belly",
+  "album": "0% Contained 100% Untamed",
+  "mile": 4,
+  "explicit": false
+ },
+ {
+  "slug": "hands-off",
+  "title": "Hands Off",
+  "album": "0% Contained 100% Untamed",
+  "mile": 14,
+  "explicit": true
  },
  {
   "slug": "lonely-coyote",
@@ -25,6 +67,48 @@
   "title": "Quiero Todo Hoy",
   "album": "Desert Bloom",
   "mile": 6,
+  "explicit": false
+ },
+ {
+  "slug": "right-where-we-are",
+  "title": "Right Where We Are",
+  "album": "0% Contained 100% Untamed",
+  "mile": 6,
+  "explicit": false
+ },
+ {
+  "slug": "same-black-dress",
+  "title": "Same Black Dress",
+  "album": "0% Contained 100% Untamed",
+  "mile": 11,
+  "explicit": false
+ },
+ {
+  "slug": "stack-it-up",
+  "title": "Stack It Up",
+  "album": "0% Contained 100% Untamed",
+  "mile": 5,
+  "explicit": false
+ },
+ {
+  "slug": "steal-away",
+  "title": "Steal Away",
+  "album": "0% Contained 100% Untamed",
+  "mile": 13,
+  "explicit": false
+ },
+ {
+  "slug": "treading-water",
+  "title": "Treading Water",
+  "album": "0% Contained 100% Untamed",
+  "mile": 7,
+  "explicit": true
+ },
+ {
+  "slug": "zero-percent-contained",
+  "title": "Zero Percent Contained",
+  "album": "0% Contained 100% Untamed",
+  "mile": 3,
   "explicit": false
  }
 ]
