@@ -35,6 +35,13 @@
   "explicit": false
  },
  {
+  "slug": "ashes-to-glitter-2-0",
+  "title": "Ashes to Glitter 2.0",
+  "album": "Old Dog, New Tricks",
+  "mile": 17,
+  "explicit": false
+ },
+ {
   "slug": "asheville",
   "title": "Asheville!",
   "album": "Ashes to Glitter",
@@ -46,6 +53,13 @@
   "title": "Atlantis",
   "album": "Berning Both Ends",
   "mile": 10,
+  "explicit": false
+ },
+ {
+  "slug": "barcelona",
+  "title": "Barcelona",
+  "album": "Old Dog, New Tricks",
+  "mile": 11,
   "explicit": false
  },
  {
@@ -70,6 +84,13 @@
   "explicit": false
  },
  {
+  "slug": "burlington",
+  "title": "Burlington",
+  "album": "Old Dog, New Tricks",
+  "mile": 1,
+  "explicit": false
+ },
+ {
   "slug": "burned-all-night",
   "title": "Burned All Night",
   "album": "Berning Both Ends",
@@ -81,6 +102,13 @@
   "title": "Call It Madness",
   "album": "Berning Both Ends",
   "mile": 16,
+  "explicit": false
+ },
+ {
+  "slug": "camp-jam-in-the-pines",
+  "title": "Camp Jam in the Pines",
+  "album": "Old Dog, New Tricks",
+  "mile": 15,
   "explicit": false
  },
  {
@@ -112,10 +140,31 @@
   "explicit": false
  },
  {
+  "slug": "dog-gone",
+  "title": "Dog Gone",
+  "album": "Old Dog, New Tricks",
+  "mile": 12,
+  "explicit": false
+ },
+ {
+  "slug": "doghouse",
+  "title": "Doghouse",
+  "album": "Old Dog, New Tricks",
+  "mile": 2,
+  "explicit": false
+ },
+ {
   "slug": "electric-love",
   "title": "Electric Love",
   "album": "Ashes to Glitter",
   "mile": 10,
+  "explicit": false
+ },
+ {
+  "slug": "every-dog-has-its-day",
+  "title": "Every Dog Has Its Day",
+  "album": "Old Dog, New Tricks",
+  "mile": 13,
   "explicit": false
  },
  {
@@ -133,10 +182,31 @@
   "explicit": false
  },
  {
+  "slug": "full-steam-ahead",
+  "title": "Full Steam Ahead",
+  "album": "Old Dog, New Tricks",
+  "mile": 16,
+  "explicit": false
+ },
+ {
   "slug": "glitter-stays",
   "title": "Glitter Stays",
   "album": "Ashes to Glitter",
   "mile": 15,
+  "explicit": false
+ },
+ {
+  "slug": "go-outside-silly-human",
+  "title": "Go Outside, Silly Human",
+  "album": "Old Dog, New Tricks",
+  "mile": 6,
+  "explicit": false
+ },
+ {
+  "slug": "hair-of-the-dog",
+  "title": "Hair of the Dog",
+  "album": "Old Dog, New Tricks",
+  "mile": 4,
   "explicit": false
  },
  {
@@ -217,10 +287,24 @@
   "explicit": false
  },
  {
+  "slug": "loveland-quarry",
+  "title": "Loveland Quarry",
+  "album": "Old Dog, New Tricks",
+  "mile": 7,
+  "explicit": false
+ },
+ {
   "slug": "luck-of-the-draw",
   "title": "Luck of the Draw",
   "album": "0% Contained 100% Untamed",
   "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "lyrical-miracle",
+  "title": "Lyrical Miracle",
+  "album": "Old Dog, New Tricks",
+  "mile": 18,
   "explicit": false
  },
  {
@@ -231,6 +315,13 @@
   "explicit": false
  },
  {
+  "slug": "mile-marker-nine",
+  "title": "Mile Marker Nine",
+  "album": "Old Dog, New Tricks",
+  "mile": 9,
+  "explicit": false
+ },
+ {
   "slug": "no-hurry-no-worry",
   "title": "No Hurry No Worry",
   "album": "Ashes to Glitter",
@@ -238,10 +329,31 @@
   "explicit": false
  },
  {
+  "slug": "no-telling-when",
+  "title": "No Telling When",
+  "album": "Old Dog, New Tricks",
+  "mile": 14,
+  "explicit": false
+ },
+ {
+  "slug": "not-yo-chacho",
+  "title": "Not Yo Chacho",
+  "album": "Old Dog, New Tricks",
+  "mile": 10,
+  "explicit": false
+ },
+ {
   "slug": "nothings-been-found",
   "title": "Nothing’s Been Found",
   "album": "Berning Both Ends",
   "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "philadelphia",
+  "title": "Philadelphia",
+  "album": "Old Dog, New Tricks",
+  "mile": 5,
   "explicit": false
  },
  {
@@ -322,6 +434,13 @@
   "explicit": false
  },
  {
+  "slug": "stone-wall-waltz",
+  "title": "Stone Wall Waltz",
+  "album": "Old Dog, New Tricks",
+  "mile": 8,
+  "explicit": false
+ },
+ {
   "slug": "take-me-to-infinity",
   "title": "Take Me to Infinity",
   "album": "Berning Both Ends",
@@ -355,6 +474,13 @@
   "album": "0% Contained 100% Untamed",
   "mile": 7,
   "explicit": true
+ },
+ {
+  "slug": "turkey-day-south",
+  "title": "Turkey Day South",
+  "album": "Old Dog, New Tricks",
+  "mile": 3,
+  "explicit": false
  },
  {
   "slug": "wearing-the-good-dress",
