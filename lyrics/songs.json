@@ -1,5 +1,12 @@
 [
  {
+  "slug": "alice-palace",
+  "title": "Alice Palace",
+  "album": "0% Contained 100% Untamed",
+  "mile": 12,
+  "explicit": false
+ },
+ {
   "slug": "aries",
   "title": "Aries",
   "album": "0% Contained 100% Untamed",
@@ -11,6 +18,13 @@
   "title": "Cartwheels",
   "album": "0% Contained 100% Untamed",
   "mile": 9,
+  "explicit": false
+ },
+ {
+  "slug": "controlled-burn",
+  "title": "Controlled Burn",
+  "album": "0% Contained 100% Untamed",
+  "mile": 10,
   "explicit": false
  },
  {
@@ -53,6 +67,13 @@
   "title": "Right Where We Are",
   "album": "0% Contained 100% Untamed",
   "mile": 6,
+  "explicit": false
+ },
+ {
+  "slug": "same-black-dress",
+  "title": "Same Black Dress",
+  "album": "0% Contained 100% Untamed",
+  "mile": 11,
   "explicit": false
  },
  {
