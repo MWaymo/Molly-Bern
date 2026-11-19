@@ -7,6 +7,13 @@
   "explicit": false
  },
  {
+  "slug": "fire-in-my-belly",
+  "title": "Fire in My Belly",
+  "album": "0% Contained 100% Untamed",
+  "mile": 4,
+  "explicit": false
+ },
+ {
   "slug": "lonely-coyote",
   "title": "Lonely Coyote",
   "album": "Desert Bloom",
@@ -14,10 +21,24 @@
   "explicit": false
  },
  {
+  "slug": "luck-of-the-draw",
+  "title": "Luck of the Draw",
+  "album": "0% Contained 100% Untamed",
+  "mile": 2,
+  "explicit": false
+ },
+ {
   "slug": "quiero-todo-hoy",
   "title": "Quiero Todo Hoy",
   "album": "Desert Bloom",
   "mile": 6,
+  "explicit": false
+ },
+ {
+  "slug": "zero-percent-contained",
+  "title": "Zero Percent Contained",
+  "album": "0% Contained 100% Untamed",
+  "mile": 3,
   "explicit": false
  }
 ]
