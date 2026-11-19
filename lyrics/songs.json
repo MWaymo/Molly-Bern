@@ -1,5 +1,12 @@
 [
  {
+  "slug": "88-keys",
+  "title": "88 Keys",
+  "album": "Ashes to Glitter",
+  "mile": 11,
+  "explicit": false
+ },
+ {
   "slug": "alice-palace",
   "title": "Alice Palace",
   "album": "0% Contained 100% Untamed",
@@ -21,10 +28,31 @@
   "explicit": false
  },
  {
+  "slug": "ashes-to-glitter",
+  "title": "Ashes to Glitter",
+  "album": "Ashes to Glitter",
+  "mile": 8,
+  "explicit": false
+ },
+ {
+  "slug": "asheville",
+  "title": "Asheville!",
+  "album": "Ashes to Glitter",
+  "mile": 1,
+  "explicit": false
+ },
+ {
   "slug": "atlantis",
   "title": "Atlantis",
   "album": "Berning Both Ends",
   "mile": 10,
+  "explicit": false
+ },
+ {
+  "slug": "bavaria-is-burning",
+  "title": "Bavaria is Burning",
+  "album": "Ashes to Glitter",
+  "mile": 3,
   "explicit": false
  },
  {
@@ -77,6 +105,20 @@
   "explicit": false
  },
  {
+  "slug": "disco",
+  "title": "Disco!",
+  "album": "Ashes to Glitter",
+  "mile": 17,
+  "explicit": false
+ },
+ {
+  "slug": "electric-love",
+  "title": "Electric Love",
+  "album": "Ashes to Glitter",
+  "mile": 10,
+  "explicit": false
+ },
+ {
   "slug": "extra-salt",
   "title": "Extra Salt",
   "album": "0% Contained 100% Untamed",
@@ -91,11 +133,32 @@
   "explicit": false
  },
  {
+  "slug": "glitter-stays",
+  "title": "Glitter Stays",
+  "album": "Ashes to Glitter",
+  "mile": 15,
+  "explicit": false
+ },
+ {
   "slug": "hands-off",
   "title": "Hands Off",
   "album": "0% Contained 100% Untamed",
   "mile": 14,
   "explicit": true
+ },
+ {
+  "slug": "happy-new-year",
+  "title": "Happy New Year",
+  "album": "Ashes to Glitter",
+  "mile": 16,
+  "explicit": false
+ },
+ {
+  "slug": "hold-your-horses",
+  "title": "Hold Your Horses",
+  "album": "Ashes to Glitter",
+  "mile": 13,
+  "explicit": false
  },
  {
   "slug": "hurricane-dynamite",
@@ -119,6 +182,13 @@
   "explicit": false
  },
  {
+  "slug": "la-libertad",
+  "title": "La Libertad",
+  "album": "Ashes to Glitter",
+  "mile": 9,
+  "explicit": false
+ },
+ {
   "slug": "laissez-les-bons-temps-rouler",
   "title": "Laissez Les Bons Temps Rouler",
   "album": "Berning Both Ends",
@@ -130,6 +200,13 @@
   "title": "Life’s a Trip",
   "album": "0% Contained 100% Untamed",
   "mile": 20,
+  "explicit": false
+ },
+ {
+  "slug": "lil-this-lil-that",
+  "title": "Lil This Lil That",
+  "album": "Ashes to Glitter",
+  "mile": 14,
   "explicit": false
  },
  {
@@ -154,6 +231,13 @@
   "explicit": false
  },
  {
+  "slug": "no-hurry-no-worry",
+  "title": "No Hurry No Worry",
+  "album": "Ashes to Glitter",
+  "mile": 7,
+  "explicit": false
+ },
+ {
   "slug": "nothings-been-found",
   "title": "Nothing’s Been Found",
   "album": "Berning Both Ends",
@@ -165,6 +249,20 @@
   "title": "Quiero Todo Hoy",
   "album": "Desert Bloom",
   "mile": 6,
+  "explicit": false
+ },
+ {
+  "slug": "raise-you-one",
+  "title": "Raise You One",
+  "album": "Ashes to Glitter",
+  "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "raised-by-wolves",
+  "title": "Raised by Wolves",
+  "album": "Ashes to Glitter",
+  "mile": 4,
   "explicit": false
  },
  {
@@ -186,6 +284,13 @@
   "title": "Same Black Dress",
   "album": "0% Contained 100% Untamed",
   "mile": 11,
+  "explicit": false
+ },
+ {
+  "slug": "set-the-stone-down",
+  "title": "Set the Stone Down",
+  "album": "Ashes to Glitter",
+  "mile": 5,
   "explicit": false
  },
  {
@@ -238,11 +343,25 @@
   "explicit": false
  },
  {
+  "slug": "trails-the-show",
+  "title": "Trail’s the Show",
+  "album": "Ashes to Glitter",
+  "mile": 6,
+  "explicit": false
+ },
+ {
   "slug": "treading-water",
   "title": "Treading Water",
   "album": "0% Contained 100% Untamed",
   "mile": 7,
   "explicit": true
+ },
+ {
+  "slug": "wearing-the-good-dress",
+  "title": "Wearing the Good Dress",
+  "album": "Ashes to Glitter",
+  "mile": 12,
+  "explicit": false
  },
  {
   "slug": "whose-mama-dis",
