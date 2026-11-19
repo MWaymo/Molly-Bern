@@ -383,11 +383,11 @@ footer p{margin:0}
     <img src="desert-bloom-cover.jpg" width="1024" height="1024" loading="lazy" alt="Desert Bloom album cover: a woman with windblown blonde hair in a black dress and boots on a desert dirt road under a dusty rose-gold sky, with blooming red cacti beside the road">
   </figure>
   <div>
-    <p class="label">Coming soon</p>
+    <p class="label">Now on Suno</p>
     <h2>Desert Bloom</h2>
     <p>The seventh album. From sinner to sacred. From dirt to downpour. A dance, a dare, and a desert that waits for the rain.</p>
-    <p class="release"><span>Seventh album</span><span>16 songs so far</span><b>Coming soon</b></p>
-    <p><a href="https://suno.com/@molly_bern" target="_blank" rel="noopener">Follow on Suno &rarr;</a></p>
+    <p class="release"><span>Seventh album</span><span>16 songs</span><b>Out now on Suno</b></p>
+    <p><a href="https://suno.com/@molly_bern" target="_blank" rel="noopener">Listen on Suno &rarr;</a></p>
   </div>
   <ol class="tracks next-tracks" aria-label="Desert Bloom track list">
 <li class="track"><span class="mile">Mile 01</span><span class="tt">Two-Step Sinner</span></li>
@@ -449,7 +449,7 @@ footer p{margin:0}
 <script>
 (function(){
   function slug(t){return t.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/['\u2019\u2018]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');}
-  fetch('lyrics/songs.json').then(function(r){return r.ok?r.json():[];}).then(function(list){
+  fetch('lyrics/songs.json?v='+Date.now(),{cache:'no-store'}).then(function(r){return r.ok?r.json():[];}).then(function(list){
     var have={};list.forEach(function(e){have[e.slug]=1;});
     document.querySelectorAll('.track .tt').forEach(function(tt){
       var n=tt.firstChild;if(!n||n.nodeType!==3)return;
