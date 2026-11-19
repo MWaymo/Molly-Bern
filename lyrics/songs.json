@@ -154,6 +154,20 @@
   "explicit": false
  },
  {
+  "slug": "darkest-before-dawn",
+  "title": "Darkest Before Dawn",
+  "album": "Murmuration of Words",
+  "mile": 10,
+  "explicit": false
+ },
+ {
+  "slug": "dead-of-night",
+  "title": "Dead of Night",
+  "album": "Murmuration of Words",
+  "mile": 9,
+  "explicit": false
+ },
+ {
   "slug": "disco",
   "title": "Disco!",
   "album": "Ashes to Glitter",
@@ -189,6 +203,13 @@
   "explicit": false
  },
  {
+  "slug": "enough",
+  "title": "Enough",
+  "album": "Murmuration of Words",
+  "mile": 4,
+  "explicit": false
+ },
+ {
   "slug": "every-dog-has-its-day",
   "title": "Every Dog Has Its Day",
   "album": "Old Dog, New Tricks",
@@ -214,6 +235,13 @@
   "title": "Full Steam Ahead",
   "album": "Old Dog, New Tricks",
   "mile": 16,
+  "explicit": false
+ },
+ {
+  "slug": "get-outta-yer-mind",
+  "title": "Get Outta Yer Mind",
+  "album": "Murmuration of Words",
+  "mile": 8,
   "explicit": false
  },
  {
@@ -249,6 +277,13 @@
   "title": "Happy New Year",
   "album": "Ashes to Glitter",
   "mile": 16,
+  "explicit": false
+ },
+ {
+  "slug": "her-say",
+  "title": "Her Say",
+  "album": "Murmuration of Words",
+  "mile": 7,
   "explicit": false
  },
  {
@@ -291,6 +326,13 @@
   "title": "La Libertad",
   "album": "Ashes to Glitter",
   "mile": 9,
+  "explicit": false
+ },
+ {
+  "slug": "lady-atlantic",
+  "title": "Lady Atlantic",
+  "album": "Murmuration of Words",
+  "mile": 5,
   "explicit": false
  },
  {
@@ -350,6 +392,13 @@
   "explicit": false
  },
  {
+  "slug": "make-something",
+  "title": "Make Something",
+  "album": "Murmuration of Words",
+  "mile": 13,
+  "explicit": false
+ },
+ {
   "slug": "mezcal-moon",
   "title": "Mezcal Moon",
   "album": "Berning Both Ends",
@@ -357,10 +406,24 @@
   "explicit": false
  },
  {
+  "slug": "midnight-writer-an-ode-to-gregg-allman",
+  "title": "Midnight Writer",
+  "album": "Murmuration of Words",
+  "mile": 14,
+  "explicit": false
+ },
+ {
   "slug": "mile-marker-nine",
   "title": "Mile Marker Nine",
   "album": "Old Dog, New Tricks",
   "mile": 9,
+  "explicit": false
+ },
+ {
+  "slug": "mind-over-matter",
+  "title": "Mind Over Matter",
+  "album": "Murmuration of Words",
+  "mile": 2,
   "explicit": false
  },
  {
@@ -375,6 +438,13 @@
   "title": "No Telling When",
   "album": "Old Dog, New Tricks",
   "mile": 14,
+  "explicit": false
+ },
+ {
+  "slug": "northwest-wind",
+  "title": "Northwest Wind",
+  "album": "Murmuration of Words",
+  "mile": 6,
   "explicit": false
  },
  {
@@ -403,6 +473,13 @@
   "title": "Passing Ships",
   "album": "Zero Predictions",
   "mile": 13,
+  "explicit": false
+ },
+ {
+  "slug": "perfect-day",
+  "title": "Perfect Day",
+  "album": "Murmuration of Words",
+  "mile": 12,
   "explicit": false
  },
  {
@@ -525,6 +602,13 @@
   "explicit": false
  },
  {
+  "slug": "the-staying-part",
+  "title": "The Staying Part",
+  "album": "Murmuration of Words",
+  "mile": 3,
+  "explicit": false
+ },
+ {
   "slug": "this-is-the-crumbling",
   "title": "This Is The Crumbling",
   "album": "Zero Predictions",
@@ -574,6 +658,13 @@
   "explicit": false
  },
  {
+  "slug": "una-vida",
+  "title": "Una Vida",
+  "album": "Murmuration of Words",
+  "mile": 11,
+  "explicit": false
+ },
+ {
   "slug": "vice-versa",
   "title": "Vice Versa",
   "album": "Zero Predictions",
@@ -606,6 +697,13 @@
   "title": "Whose Mama Dis",
   "album": "0% Contained 100% Untamed",
   "mile": 16,
+  "explicit": false
+ },
+ {
+  "slug": "wind-through-the-pine",
+  "title": "Wind Through the Pine",
+  "album": "Murmuration of Words",
+  "mile": 1,
   "explicit": false
  },
  {
