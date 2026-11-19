@@ -7,6 +7,13 @@
   "explicit": false
  },
  {
+  "slug": "andale-americana",
+  "title": "Ándale Americana!",
+  "album": "Berning Both Ends",
+  "mile": 1,
+  "explicit": false
+ },
+ {
   "slug": "aries",
   "title": "Aries",
   "album": "0% Contained 100% Untamed",
@@ -80,6 +87,13 @@
   "slug": "luck-of-the-draw",
   "title": "Luck of the Draw",
   "album": "0% Contained 100% Untamed",
+  "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "nothings-been-found",
+  "title": "Nothing’s Been Found",
+  "album": "Berning Both Ends",
   "mile": 2,
   "explicit": false
  },
