@@ -51,6 +51,7 @@ nav a:hover{color:var(--fg); border-bottom-color:var(--accent)}
 .label a:hover{border-bottom-color:var(--accent)}
 h1{font-family:var(--display); font-weight:400; text-transform:uppercase; font-size:clamp(2.6rem,6.5vw,4.2rem); line-height:.98; letter-spacing:.02em; margin:0 0 18px; text-wrap:balance; overflow-wrap:anywhere; filter:url(#grit)}
 .exp{display:inline-block; font-family:var(--label); font-size:.72rem; line-height:1; border:1.5px solid var(--muted); color:var(--muted); padding:3px 5px 2px; margin-left:10px; vertical-align:middle; font-weight:400; letter-spacing:.06em}
+.sub{font-family:var(--label); font-size:1rem; letter-spacing:.06em; color:var(--muted); margin:-8px 0 16px}
 .listen{margin:0; font-family:var(--label); font-size:.92rem; letter-spacing:.1em; text-transform:uppercase}
 .listen a{text-decoration:none; border-bottom:2px solid var(--accent); padding-bottom:2px}
 .listen a:hover{color:var(--accent)}

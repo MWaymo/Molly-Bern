@@ -14,6 +14,13 @@
   "explicit": false
  },
  {
+  "slug": "blondes-have-more-fun",
+  "title": "Blondes Have More Fun",
+  "album": "0% Contained 100% Untamed",
+  "mile": 18,
+  "explicit": false
+ },
+ {
   "slug": "cartwheels",
   "title": "Cartwheels",
   "album": "0% Contained 100% Untamed",
@@ -39,6 +46,27 @@
   "title": "Fire in My Belly",
   "album": "0% Contained 100% Untamed",
   "mile": 4,
+  "explicit": false
+ },
+ {
+  "slug": "hands-off",
+  "title": "Hands Off",
+  "album": "0% Contained 100% Untamed",
+  "mile": 14,
+  "explicit": true
+ },
+ {
+  "slug": "if-walls-could-talk",
+  "title": "If Walls Could Talk",
+  "album": "0% Contained 100% Untamed",
+  "mile": 19,
+  "explicit": false
+ },
+ {
+  "slug": "lifes-a-trip",
+  "title": "Life’s a Trip",
+  "album": "0% Contained 100% Untamed",
+  "mile": 20,
   "explicit": false
  },
  {
@@ -84,11 +112,39 @@
   "explicit": false
  },
  {
+  "slug": "steal-away",
+  "title": "Steal Away",
+  "album": "0% Contained 100% Untamed",
+  "mile": 13,
+  "explicit": false
+ },
+ {
+  "slug": "toss-the-keys",
+  "title": "Toss the Keys",
+  "album": "0% Contained 100% Untamed",
+  "mile": 15,
+  "explicit": false
+ },
+ {
   "slug": "treading-water",
   "title": "Treading Water",
   "album": "0% Contained 100% Untamed",
   "mile": 7,
   "explicit": true
+ },
+ {
+  "slug": "whose-mama-dis",
+  "title": "Whose Mama Dis",
+  "album": "0% Contained 100% Untamed",
+  "mile": 16,
+  "explicit": false
+ },
+ {
+  "slug": "work-your-light",
+  "title": "Work Your Light",
+  "album": "0% Contained 100% Untamed",
+  "mile": 17,
+  "explicit": false
  },
  {
   "slug": "zero-percent-contained",
