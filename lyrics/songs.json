@@ -77,6 +77,13 @@
   "explicit": false
  },
  {
+  "slug": "black-suede-heels",
+  "title": "Black Suede Heels",
+  "album": "Desert Bloom",
+  "mile": 3,
+  "explicit": false
+ },
+ {
   "slug": "blondes-have-more-fun",
   "title": "Blondes Have More Fun",
   "album": "0% Contained 100% Untamed",
@@ -140,6 +147,13 @@
   "explicit": false
  },
  {
+  "slug": "closer",
+  "title": "Closer",
+  "album": "Desert Bloom",
+  "mile": 2,
+  "explicit": false
+ },
+ {
   "slug": "controlled-burn",
   "title": "Controlled Burn",
   "album": "0% Contained 100% Untamed",
@@ -154,6 +168,13 @@
   "explicit": false
  },
  {
+  "slug": "dance-now-pray-later",
+  "title": "Dance Now, Pray Later",
+  "album": "Desert Bloom",
+  "mile": 5,
+  "explicit": false
+ },
+ {
   "slug": "darkest-before-dawn",
   "title": "Darkest Before Dawn",
   "album": "Murmuration of Words",
@@ -164,6 +185,13 @@
   "slug": "dead-of-night",
   "title": "Dead of Night",
   "album": "Murmuration of Words",
+  "mile": 9,
+  "explicit": false
+ },
+ {
+  "slug": "desert-bloom",
+  "title": "Desert Bloom",
+  "album": "Desert Bloom",
   "mile": 9,
   "explicit": false
  },
@@ -193,6 +221,13 @@
   "title": "Doghouse",
   "album": "Old Dog, New Tricks",
   "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "dust-devil",
+  "title": "Dust Devil",
+  "album": "Desert Bloom",
+  "mile": 11,
   "explicit": false
  },
  {
@@ -343,6 +378,13 @@
   "explicit": false
  },
  {
+  "slug": "late-bloomer",
+  "title": "Late Bloomer",
+  "album": "Desert Bloom",
+  "mile": 8,
+  "explicit": false
+ },
+ {
   "slug": "lifes-a-trip",
   "title": "Life’s a Trip",
   "album": "0% Contained 100% Untamed",
@@ -395,6 +437,13 @@
   "slug": "make-something",
   "title": "Make Something",
   "album": "Murmuration of Words",
+  "mile": 13,
+  "explicit": false
+ },
+ {
+  "slug": "mexico-city",
+  "title": "Mexico City",
+  "album": "Desert Bloom",
   "mile": 13,
   "explicit": false
  },
@@ -462,6 +511,13 @@
   "explicit": false
  },
  {
+  "slug": "pack-it-up",
+  "title": "Pack It Up",
+  "album": "Desert Bloom",
+  "mile": 4,
+  "explicit": false
+ },
+ {
   "slug": "paper-crown",
   "title": "Paper Crown",
   "album": "Zero Predictions",
@@ -480,6 +536,13 @@
   "title": "Perfect Day",
   "album": "Murmuration of Words",
   "mile": 12,
+  "explicit": false
+ },
+ {
+  "slug": "petrichor",
+  "title": "Petrichor",
+  "album": "Desert Bloom",
+  "mile": 16,
   "explicit": false
  },
  {
@@ -518,6 +581,13 @@
   "explicit": false
  },
  {
+  "slug": "return-flight",
+  "title": "Return Flight",
+  "album": "Desert Bloom",
+  "mile": 10,
+  "explicit": false
+ },
+ {
   "slug": "right-where-we-are",
   "title": "Right Where We Are",
   "album": "0% Contained 100% Untamed",
@@ -525,10 +595,24 @@
   "explicit": false
  },
  {
+  "slug": "rosemary",
+  "title": "Rosemary",
+  "album": "Desert Bloom",
+  "mile": 12,
+  "explicit": false
+ },
+ {
   "slug": "same-black-dress",
   "title": "Same Black Dress",
   "album": "0% Contained 100% Untamed",
   "mile": 11,
+  "explicit": false
+ },
+ {
+  "slug": "scorpion-tequila",
+  "title": "Scorpion Tequila",
+  "album": "Desert Bloom",
+  "mile": 7,
   "explicit": false
  },
  {
@@ -651,10 +735,24 @@
   "explicit": true
  },
  {
+  "slug": "tupelo-honey",
+  "title": "Tupelo Honey",
+  "album": "Desert Bloom",
+  "mile": 15,
+  "explicit": false
+ },
+ {
   "slug": "turkey-day-south",
   "title": "Turkey Day South",
   "album": "Old Dog, New Tricks",
   "mile": 3,
+  "explicit": false
+ },
+ {
+  "slug": "two-step-sinner",
+  "title": "Two-Step Sinner",
+  "album": "Desert Bloom",
+  "mile": 1,
   "explicit": false
  },
  {
