@@ -7,6 +7,13 @@
   "explicit": false
  },
  {
+  "slug": "a-loud-crowded-table",
+  "title": "A Loud, Crowded Table",
+  "album": "Freezer Bern",
+  "mile": 13,
+  "explicit": false
+ },
+ {
   "slug": "alice-palace",
   "title": "Alice Palace",
   "album": "0% Contained 100% Untamed",
@@ -119,6 +126,20 @@
   "explicit": false
  },
  {
+  "slug": "burning-inside",
+  "title": "Burning Inside",
+  "album": "Freezer Bern",
+  "mile": 7,
+  "explicit": false
+ },
+ {
+  "slug": "call-it-crazy-call-it-right",
+  "title": "Call It Crazy, Call It Right",
+  "album": "Freezer Bern",
+  "mile": 6,
+  "explicit": false
+ },
+ {
   "slug": "call-it-madness",
   "title": "Call It Madness",
   "album": "Berning Both Ends",
@@ -151,6 +172,13 @@
   "title": "Closer",
   "album": "Desert Bloom",
   "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "cold-feet",
+  "title": "Cold Feet",
+  "album": "Freezer Bern",
+  "mile": 3,
   "explicit": false
  },
  {
@@ -224,6 +252,13 @@
   "explicit": false
  },
  {
+  "slug": "dogwood-white-in-april",
+  "title": "Dogwood White in April",
+  "album": "Freezer Bern",
+  "mile": 12,
+  "explicit": false
+ },
+ {
   "slug": "dust-devil",
   "title": "Dust Devil",
   "album": "Desert Bloom",
@@ -259,10 +294,31 @@
   "explicit": true
  },
  {
+  "slug": "fashionably-late",
+  "title": "Fashionably Late",
+  "album": "Freezer Bern",
+  "mile": 5,
+  "explicit": false
+ },
+ {
+  "slug": "fever-dreams",
+  "title": "Fever Dreams",
+  "album": "Freezer Bern",
+  "mile": 9,
+  "explicit": true
+ },
+ {
   "slug": "fire-in-my-belly",
   "title": "Fire in My Belly",
   "album": "0% Contained 100% Untamed",
   "mile": 4,
+  "explicit": false
+ },
+ {
+  "slug": "freezer-bern",
+  "title": "Freezer Bern",
+  "album": "Freezer Bern",
+  "mile": 2,
   "explicit": false
  },
  {
@@ -476,6 +532,13 @@
   "explicit": false
  },
  {
+  "slug": "my-love-is-for-you",
+  "title": "My Love Is For You",
+  "album": "Freezer Bern",
+  "mile": 10,
+  "explicit": false
+ },
+ {
   "slug": "no-hurry-no-worry",
   "title": "No Hurry No Worry",
   "album": "Ashes to Glitter",
@@ -581,6 +644,13 @@
   "explicit": false
  },
  {
+  "slug": "refrigerator-reprise",
+  "title": "Refrigerator Reprise",
+  "album": "Freezer Bern",
+  "mile": 14,
+  "explicit": false
+ },
+ {
   "slug": "return-flight",
   "title": "Return Flight",
   "album": "Desert Bloom",
@@ -592,6 +662,13 @@
   "title": "Right Where We Are",
   "album": "0% Contained 100% Untamed",
   "mile": 6,
+  "explicit": false
+ },
+ {
+  "slug": "rock-the-boat",
+  "title": "Rock the Boat",
+  "album": "Freezer Bern",
+  "mile": 4,
   "explicit": false
  },
  {
@@ -623,6 +700,13 @@
   "explicit": false
  },
  {
+  "slug": "seventy-one",
+  "title": "Seventy-One",
+  "album": "Freezer Bern",
+  "mile": 8,
+  "explicit": false
+ },
+ {
   "slug": "simmer-down",
   "title": "Simmer Down",
   "album": "Zero Predictions",
@@ -642,6 +726,13 @@
   "album": "Berning Both Ends",
   "mile": 5,
   "explicit": false
+ },
+ {
+  "slug": "snowplow",
+  "title": "Snowplow",
+  "album": "Freezer Bern",
+  "mile": 11,
+  "explicit": true
  },
  {
   "slug": "somebody-done-me-wrong",
@@ -676,6 +767,13 @@
   "title": "Take Me to Infinity",
   "album": "Berning Both Ends",
   "mile": 11,
+  "explicit": false
+ },
+ {
+  "slug": "temperature-teaser",
+  "title": "Temperature Teaser",
+  "album": "Freezer Bern",
+  "mile": 1,
   "explicit": false
  },
  {
