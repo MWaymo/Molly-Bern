@@ -1,9 +1,37 @@
 [
  {
+  "slug": "88-keys",
+  "title": "88 Keys",
+  "album": "Ashes to Glitter",
+  "mile": 11,
+  "explicit": false
+ },
+ {
+  "slug": "a-loud-crowded-table",
+  "title": "A Loud, Crowded Table",
+  "album": "Freezer Bern",
+  "mile": 13,
+  "explicit": false
+ },
+ {
   "slug": "alice-palace",
   "title": "Alice Palace",
   "album": "0% Contained 100% Untamed",
   "mile": 12,
+  "explicit": false
+ },
+ {
+  "slug": "andale-americana",
+  "title": "Ándale Americana!",
+  "album": "Berning Both Ends",
+  "mile": 1,
+  "explicit": false
+ },
+ {
+  "slug": "argent-lining",
+  "title": "Argent Lining",
+  "album": "Out of Bounds",
+  "mile": 7,
   "explicit": false
  },
  {
@@ -14,10 +42,150 @@
   "explicit": false
  },
  {
+  "slug": "ashes-to-glitter",
+  "title": "Ashes to Glitter",
+  "album": "Ashes to Glitter",
+  "mile": 8,
+  "explicit": false
+ },
+ {
+  "slug": "ashes-to-glitter-2-0",
+  "title": "Ashes to Glitter 2.0",
+  "album": "Old Dog, New Tricks",
+  "mile": 17,
+  "explicit": false
+ },
+ {
+  "slug": "asheville",
+  "title": "Asheville!",
+  "album": "Ashes to Glitter",
+  "mile": 1,
+  "explicit": false
+ },
+ {
+  "slug": "atlantis",
+  "title": "Atlantis",
+  "album": "Berning Both Ends",
+  "mile": 10,
+  "explicit": false
+ },
+ {
+  "slug": "barcelona",
+  "title": "Barcelona",
+  "album": "Old Dog, New Tricks",
+  "mile": 11,
+  "explicit": false
+ },
+ {
+  "slug": "bavaria-is-burning",
+  "title": "Bavaria is Burning",
+  "album": "Ashes to Glitter",
+  "mile": 3,
+  "explicit": false
+ },
+ {
+  "slug": "be-here-now",
+  "title": "Be Here Now",
+  "album": "Shake Well",
+  "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "beware-the-phone-rots-an-ode-to-john-prine",
+  "title": "Beware the Phone Rots",
+  "album": "Berning Both Ends",
+  "mile": 6,
+  "explicit": false
+ },
+ {
+  "slug": "black-suede-heels",
+  "title": "Black Suede Heels",
+  "album": "Desert Bloom",
+  "mile": 3,
+  "explicit": false
+ },
+ {
   "slug": "blondes-have-more-fun",
   "title": "Blondes Have More Fun",
   "album": "0% Contained 100% Untamed",
   "mile": 18,
+  "explicit": false
+ },
+ {
+  "slug": "boundary-stone",
+  "title": "Boundary Stone",
+  "album": "Out of Bounds",
+  "mile": 5,
+  "explicit": false
+ },
+ {
+  "slug": "brain-on-fire",
+  "title": "Brain On Fire",
+  "album": "Zero Predictions",
+  "mile": 6,
+  "explicit": false
+ },
+ {
+  "slug": "break-the-chain",
+  "title": "Break the Chain",
+  "album": "Zero Predictions",
+  "mile": 16,
+  "explicit": false
+ },
+ {
+  "slug": "burlington",
+  "title": "Burlington",
+  "album": "Old Dog, New Tricks",
+  "mile": 1,
+  "explicit": false
+ },
+ {
+  "slug": "burned-all-night",
+  "title": "Burned All Night",
+  "album": "Berning Both Ends",
+  "mile": 15,
+  "explicit": false
+ },
+ {
+  "slug": "burning-inside",
+  "title": "Burning Inside",
+  "album": "Freezer Bern",
+  "mile": 7,
+  "explicit": false
+ },
+ {
+  "slug": "call-it-crazy-call-it-right",
+  "title": "Call It Crazy, Call It Right",
+  "album": "Freezer Bern",
+  "mile": 6,
+  "explicit": false
+ },
+ {
+  "slug": "call-it-madness",
+  "title": "Call It Madness",
+  "album": "Berning Both Ends",
+  "mile": 16,
+  "explicit": false
+ },
+ {
+  "slug": "call-me-mediocre",
+  "title": "Call Me Mediocre",
+  "album": "Zero Predictions",
+  "mile": 1,
+  "explicit": false
+ },
+ {
+  "slug": "camp-jam-in-the-pines",
+  "title": "Camp Jam in the Pines",
+  "album": "Old Dog, New Tricks",
+  "mile": 15,
+  "explicit": false
+ },
+ {
+  "slug": "canter-on",
+  "title": "Canter On",
+  "album": "Out of Bounds",
+  "mile": 9,
   "explicit": false
  },
  {
@@ -28,10 +196,136 @@
   "explicit": false
  },
  {
+  "slug": "closer",
+  "title": "Closer",
+  "album": "Desert Bloom",
+  "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "co-pilot",
+  "title": "Co-pilot",
+  "album": "Out of Bounds",
+  "mile": 15,
+  "explicit": false
+ },
+ {
+  "slug": "cold-feet",
+  "title": "Cold Feet",
+  "album": "Freezer Bern",
+  "mile": 3,
+  "explicit": false
+ },
+ {
   "slug": "controlled-burn",
   "title": "Controlled Burn",
   "album": "0% Contained 100% Untamed",
   "mile": 10,
+  "explicit": false
+ },
+ {
+  "slug": "cyclone",
+  "title": "Cyclone",
+  "album": "Berning Both Ends",
+  "mile": 9,
+  "explicit": false
+ },
+ {
+  "slug": "dance-now-pray-later",
+  "title": "Dance Now, Pray Later",
+  "album": "Desert Bloom",
+  "mile": 5,
+  "explicit": false
+ },
+ {
+  "slug": "darkest-before-dawn",
+  "title": "Darkest Before Dawn",
+  "album": "Murmuration of Words",
+  "mile": 10,
+  "explicit": false
+ },
+ {
+  "slug": "dead-of-night",
+  "title": "Dead of Night",
+  "album": "Murmuration of Words",
+  "mile": 9,
+  "explicit": false
+ },
+ {
+  "slug": "desert-bloom",
+  "title": "Desert Bloom",
+  "album": "Desert Bloom",
+  "mile": 9,
+  "explicit": false
+ },
+ {
+  "slug": "disco",
+  "title": "Disco!",
+  "album": "Ashes to Glitter",
+  "mile": 17,
+  "explicit": false
+ },
+ {
+  "slug": "disturbed-child",
+  "title": "Disturbed Child",
+  "album": "Zero Predictions",
+  "mile": 5,
+  "explicit": false
+ },
+ {
+  "slug": "dog-gone",
+  "title": "Dog Gone",
+  "album": "Old Dog, New Tricks",
+  "mile": 12,
+  "explicit": false
+ },
+ {
+  "slug": "doghouse",
+  "title": "Doghouse",
+  "album": "Old Dog, New Tricks",
+  "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "dogwood-white-in-april",
+  "title": "Dogwood White in April",
+  "album": "Freezer Bern",
+  "mile": 12,
+  "explicit": false
+ },
+ {
+  "slug": "drumline",
+  "title": "Drumline",
+  "album": "Out of Bounds",
+  "mile": 11,
+  "explicit": false
+ },
+ {
+  "slug": "dust-devil",
+  "title": "Dust Devil",
+  "album": "Desert Bloom",
+  "mile": 11,
+  "explicit": false
+ },
+ {
+  "slug": "electric-love",
+  "title": "Electric Love",
+  "album": "Ashes to Glitter",
+  "mile": 10,
+  "explicit": false
+ },
+ {
+  "slug": "enough",
+  "title": "Enough",
+  "album": "Murmuration of Words",
+  "mile": 4,
+  "explicit": false
+ },
+ {
+  "slug": "every-dog-has-its-day",
+  "title": "Every Dog Has Its Day",
+  "album": "Old Dog, New Tricks",
+  "mile": 13,
   "explicit": false
  },
  {
@@ -42,9 +336,65 @@
   "explicit": true
  },
  {
+  "slug": "fashionably-late",
+  "title": "Fashionably Late",
+  "album": "Freezer Bern",
+  "mile": 5,
+  "explicit": false
+ },
+ {
+  "slug": "fever-dreams",
+  "title": "Fever Dreams",
+  "album": "Freezer Bern",
+  "mile": 9,
+  "explicit": true
+ },
+ {
   "slug": "fire-in-my-belly",
   "title": "Fire in My Belly",
   "album": "0% Contained 100% Untamed",
+  "mile": 4,
+  "explicit": false
+ },
+ {
+  "slug": "freezer-bern",
+  "title": "Freezer Bern",
+  "album": "Freezer Bern",
+  "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "full-steam-ahead",
+  "title": "Full Steam Ahead",
+  "album": "Old Dog, New Tricks",
+  "mile": 16,
+  "explicit": false
+ },
+ {
+  "slug": "get-outta-yer-mind",
+  "title": "Get Outta Yer Mind",
+  "album": "Murmuration of Words",
+  "mile": 8,
+  "explicit": false
+ },
+ {
+  "slug": "glitter-stays",
+  "title": "Glitter Stays",
+  "album": "Ashes to Glitter",
+  "mile": 15,
+  "explicit": false
+ },
+ {
+  "slug": "go-outside-silly-human",
+  "title": "Go Outside, Silly Human",
+  "album": "Old Dog, New Tricks",
+  "mile": 6,
+  "explicit": false
+ },
+ {
+  "slug": "hair-of-the-dog",
+  "title": "Hair of the Dog",
+  "album": "Old Dog, New Tricks",
   "mile": 4,
   "explicit": false
  },
@@ -56,10 +406,94 @@
   "explicit": true
  },
  {
+  "slug": "happy-new-year",
+  "title": "Happy New Year",
+  "album": "Ashes to Glitter",
+  "mile": 16,
+  "explicit": false
+ },
+ {
+  "slug": "her-say",
+  "title": "Her Say",
+  "album": "Murmuration of Words",
+  "mile": 7,
+  "explicit": false
+ },
+ {
+  "slug": "hold-your-horses",
+  "title": "Hold Your Horses",
+  "album": "Ashes to Glitter",
+  "mile": 13,
+  "explicit": false
+ },
+ {
+  "slug": "hurricane-dynamite",
+  "title": "Hurricane Dynamite",
+  "album": "Berning Both Ends",
+  "mile": 7,
+  "explicit": false
+ },
+ {
   "slug": "if-walls-could-talk",
   "title": "If Walls Could Talk",
   "album": "0% Contained 100% Untamed",
   "mile": 19,
+  "explicit": false
+ },
+ {
+  "slug": "in-my-head",
+  "title": "In My Head",
+  "album": "Zero Predictions",
+  "mile": 4,
+  "explicit": false
+ },
+ {
+  "slug": "irons-in-the-fire",
+  "title": "Irons in the Fire",
+  "album": "Berning Both Ends",
+  "mile": 14,
+  "explicit": false
+ },
+ {
+  "slug": "just-in-case",
+  "title": "Just In Case",
+  "album": "Out of Bounds",
+  "mile": 10,
+  "explicit": false
+ },
+ {
+  "slug": "la-libertad",
+  "title": "La Libertad",
+  "album": "Ashes to Glitter",
+  "mile": 9,
+  "explicit": false
+ },
+ {
+  "slug": "lady-atlantic",
+  "title": "Lady Atlantic",
+  "album": "Murmuration of Words",
+  "mile": 5,
+  "explicit": false
+ },
+ {
+  "slug": "laissez-les-bons-temps-rouler",
+  "title": "Laissez Les Bons Temps Rouler",
+  "album": "Berning Both Ends",
+  "mile": 4,
+  "explicit": false
+ },
+ {
+  "slug": "late-bloomer",
+  "title": "Late Bloomer",
+  "album": "Desert Bloom",
+  "mile": 8,
+  "explicit": false
+ },
+ {
+  "slug": "lets-elope",
+  "title": "Let's Elope",
+  "album": "Out of Bounds",
+  "mile": 3,
   "explicit": false
  },
  {
@@ -70,10 +504,24 @@
   "explicit": false
  },
  {
+  "slug": "lil-this-lil-that",
+  "title": "Lil This Lil That",
+  "album": "Ashes to Glitter",
+  "mile": 14,
+  "explicit": false
+ },
+ {
   "slug": "lonely-coyote",
   "title": "Lonely Coyote",
   "album": "Desert Bloom",
   "mile": 14,
+  "explicit": false
+ },
+ {
+  "slug": "loveland-quarry",
+  "title": "Loveland Quarry",
+  "album": "Old Dog, New Tricks",
+  "mile": 7,
   "explicit": false
  },
  {
@@ -84,10 +532,249 @@
   "explicit": false
  },
  {
+  "slug": "lyrical-miracle",
+  "title": "Lyrical Miracle",
+  "album": "Old Dog, New Tricks",
+  "mile": 18,
+  "explicit": false
+ },
+ {
+  "slug": "made-of-glass",
+  "title": "Made of Glass",
+  "album": "Zero Predictions",
+  "mile": 12,
+  "explicit": false
+ },
+ {
+  "slug": "magnolia",
+  "title": "Magnolia",
+  "album": "Shake Well",
+  "mile": 3,
+  "explicit": false
+ },
+ {
+  "slug": "make-something",
+  "title": "Make Something",
+  "album": "Murmuration of Words",
+  "mile": 13,
+  "explicit": false
+ },
+ {
+  "slug": "mexico-city",
+  "title": "Mexico City",
+  "album": "Desert Bloom",
+  "mile": 13,
+  "explicit": false
+ },
+ {
+  "slug": "mezcal-moon",
+  "title": "Mezcal Moon",
+  "album": "Berning Both Ends",
+  "mile": 8,
+  "explicit": false
+ },
+ {
+  "slug": "midnight-writer-an-ode-to-gregg-allman",
+  "title": "Midnight Writer",
+  "album": "Murmuration of Words",
+  "mile": 14,
+  "explicit": false
+ },
+ {
+  "slug": "mile-marker-nine",
+  "title": "Mile Marker Nine",
+  "album": "Old Dog, New Tricks",
+  "mile": 9,
+  "explicit": false
+ },
+ {
+  "slug": "mind-over-matter",
+  "title": "Mind Over Matter",
+  "album": "Murmuration of Words",
+  "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "mirror-facing-a-mirror",
+  "title": "Mirror Facing a Mirror",
+  "album": "Shake Well",
+  "mile": 11,
+  "explicit": false
+ },
+ {
+  "slug": "miss-tambourina",
+  "title": "Miss Tambourina",
+  "album": "Shake Well",
+  "mile": 5,
+  "explicit": false
+ },
+ {
+  "slug": "mountains-beyond-mountains",
+  "title": "Mountains Beyond Mountains",
+  "album": "Shake Well",
+  "mile": 9,
+  "explicit": false
+ },
+ {
+  "slug": "my-love-is-for-you",
+  "title": "My Love Is For You",
+  "album": "Freezer Bern",
+  "mile": 10,
+  "explicit": false
+ },
+ {
+  "slug": "no-hurry-no-worry",
+  "title": "No Hurry No Worry",
+  "album": "Ashes to Glitter",
+  "mile": 7,
+  "explicit": false
+ },
+ {
+  "slug": "no-telling-when",
+  "title": "No Telling When",
+  "album": "Old Dog, New Tricks",
+  "mile": 14,
+  "explicit": false
+ },
+ {
+  "slug": "northwest-wind",
+  "title": "Northwest Wind",
+  "album": "Murmuration of Words",
+  "mile": 6,
+  "explicit": false
+ },
+ {
+  "slug": "not-yo-chacho",
+  "title": "Not Yo Chacho",
+  "album": "Old Dog, New Tricks",
+  "mile": 10,
+  "explicit": false
+ },
+ {
+  "slug": "nothings-been-found",
+  "title": "Nothing’s Been Found",
+  "album": "Berning Both Ends",
+  "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "orange-blossom-mead",
+  "title": "Orange Blossom Mead",
+  "album": "Shake Well",
+  "mile": 4,
+  "explicit": false
+ },
+ {
+  "slug": "out-of-bounds",
+  "title": "Out of Bounds",
+  "album": "Out of Bounds",
+  "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "outta-my-lane",
+  "title": "Outta My Lane",
+  "album": "Out of Bounds",
+  "mile": 8,
+  "explicit": false
+ },
+ {
+  "slug": "pack-it-up",
+  "title": "Pack It Up",
+  "album": "Desert Bloom",
+  "mile": 4,
+  "explicit": false
+ },
+ {
+  "slug": "paper-crown",
+  "title": "Paper Crown",
+  "album": "Zero Predictions",
+  "mile": 14,
+  "explicit": false
+ },
+ {
+  "slug": "passing-ships",
+  "title": "Passing Ships",
+  "album": "Zero Predictions",
+  "mile": 13,
+  "explicit": false
+ },
+ {
+  "slug": "perfect-day",
+  "title": "Perfect Day",
+  "album": "Murmuration of Words",
+  "mile": 12,
+  "explicit": false
+ },
+ {
+  "slug": "petrichor",
+  "title": "Petrichor",
+  "album": "Desert Bloom",
+  "mile": 16,
+  "explicit": false
+ },
+ {
+  "slug": "philadelphia",
+  "title": "Philadelphia",
+  "album": "Old Dog, New Tricks",
+  "mile": 5,
+  "explicit": false
+ },
+ {
   "slug": "quiero-todo-hoy",
   "title": "Quiero Todo Hoy",
   "album": "Desert Bloom",
   "mile": 6,
+  "explicit": false
+ },
+ {
+  "slug": "raise-you-one",
+  "title": "Raise You One",
+  "album": "Ashes to Glitter",
+  "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "raised-by-wolves",
+  "title": "Raised by Wolves",
+  "album": "Ashes to Glitter",
+  "mile": 4,
+  "explicit": false
+ },
+ {
+  "slug": "rearview",
+  "title": "Rearview",
+  "album": "Out of Bounds",
+  "mile": 12,
+  "explicit": false
+ },
+ {
+  "slug": "red-eye",
+  "title": "Red-Eye",
+  "album": "Berning Both Ends",
+  "mile": 3,
+  "explicit": false
+ },
+ {
+  "slug": "refrigerator-reprise",
+  "title": "Refrigerator Reprise",
+  "album": "Freezer Bern",
+  "mile": 14,
+  "explicit": false,
+  "instrumental": true
+ },
+ {
+  "slug": "return-flight",
+  "title": "Return Flight",
+  "album": "Desert Bloom",
+  "mile": 10,
+  "explicit": false
+ },
+ {
+  "slug": "rhythm-is-my-religion",
+  "title": "Rhythm Is My Religion",
+  "album": "Out of Bounds",
+  "mile": 14,
   "explicit": false
  },
  {
@@ -98,10 +785,94 @@
   "explicit": false
  },
  {
+  "slug": "rock-the-boat",
+  "title": "Rock the Boat",
+  "album": "Freezer Bern",
+  "mile": 4,
+  "explicit": false
+ },
+ {
+  "slug": "rosemary",
+  "title": "Rosemary",
+  "album": "Desert Bloom",
+  "mile": 12,
+  "explicit": false
+ },
+ {
+  "slug": "rulebreaker",
+  "title": "Rulebreaker",
+  "album": "Out of Bounds",
+  "mile": 4,
+  "explicit": false
+ },
+ {
   "slug": "same-black-dress",
   "title": "Same Black Dress",
   "album": "0% Contained 100% Untamed",
   "mile": 11,
+  "explicit": false
+ },
+ {
+  "slug": "scorpion-tequila",
+  "title": "Scorpion Tequila",
+  "album": "Desert Bloom",
+  "mile": 7,
+  "explicit": false
+ },
+ {
+  "slug": "set-the-stone-down",
+  "title": "Set the Stone Down",
+  "album": "Ashes to Glitter",
+  "mile": 5,
+  "explicit": false
+ },
+ {
+  "slug": "seventy-one",
+  "title": "Seventy-One",
+  "album": "Freezer Bern",
+  "mile": 8,
+  "explicit": false
+ },
+ {
+  "slug": "simmer-down",
+  "title": "Simmer Down",
+  "album": "Zero Predictions",
+  "mile": 9,
+  "explicit": false
+ },
+ {
+  "slug": "sisters-cosmic",
+  "title": "Sisters Cosmic",
+  "album": "Berning Both Ends",
+  "mile": 12,
+  "explicit": false
+ },
+ {
+  "slug": "slap-it-proper",
+  "title": "Slap It Proper",
+  "album": "Shake Well",
+  "mile": 8,
+  "explicit": false
+ },
+ {
+  "slug": "smoke-and-sin",
+  "title": "Smoke and Sin",
+  "album": "Berning Both Ends",
+  "mile": 5,
+  "explicit": false
+ },
+ {
+  "slug": "snowplow",
+  "title": "Snowplow",
+  "album": "Freezer Bern",
+  "mile": 11,
+  "explicit": true
+ },
+ {
+  "slug": "somebody-done-me-wrong",
+  "title": "Somebody Done Me Wrong",
+  "album": "Zero Predictions",
+  "mile": 8,
   "explicit": false
  },
  {
@@ -112,9 +883,101 @@
   "explicit": false
  },
  {
+  "slug": "steady-in-her-growth",
+  "title": "Steady in Her Growth",
+  "album": "Out of Bounds",
+  "mile": 6,
+  "explicit": true
+ },
+ {
   "slug": "steal-away",
   "title": "Steal Away",
   "album": "0% Contained 100% Untamed",
+  "mile": 13,
+  "explicit": false
+ },
+ {
+  "slug": "stone-wall-waltz",
+  "title": "Stone Wall Waltz",
+  "album": "Old Dog, New Tricks",
+  "mile": 8,
+  "explicit": false
+ },
+ {
+  "slug": "take-me-to-infinity",
+  "title": "Take Me to Infinity",
+  "album": "Berning Both Ends",
+  "mile": 11,
+  "explicit": false
+ },
+ {
+  "slug": "temperature-teaser",
+  "title": "Temperature Teaser",
+  "album": "Freezer Bern",
+  "mile": 1,
+  "explicit": false,
+  "instrumental": true
+ },
+ {
+  "slug": "thanks-for-the-wipers",
+  "title": "Thanks for the Wipers",
+  "album": "Zero Predictions",
+  "mile": 7,
+  "explicit": false
+ },
+ {
+  "slug": "the-quiet-after",
+  "title": "The Quiet After",
+  "album": "Shake Well",
+  "mile": 13,
+  "explicit": false
+ },
+ {
+  "slug": "the-staying-part",
+  "title": "The Staying Part",
+  "album": "Murmuration of Words",
+  "mile": 3,
+  "explicit": false
+ },
+ {
+  "slug": "the-times-are-shifting",
+  "title": "The Times Are Shifting",
+  "album": "Shake Well",
+  "mile": 12,
+  "explicit": false
+ },
+ {
+  "slug": "this-is-the-crumbling",
+  "title": "This Is The Crumbling",
+  "album": "Zero Predictions",
+  "mile": 3,
+  "explicit": false
+ },
+ {
+  "slug": "till-the-oceans-run-dry",
+  "title": "Till the Oceans Run Dry",
+  "album": "Shake Well",
+  "mile": 6,
+  "explicit": false
+ },
+ {
+  "slug": "time-will-tell",
+  "title": "Time Will Tell",
+  "album": "Shake Well",
+  "mile": 1,
+  "explicit": false
+ },
+ {
+  "slug": "to-exist-is-to-persist",
+  "title": "To Exist Is To Persist",
+  "album": "Zero Predictions",
+  "mile": 10,
+  "explicit": false
+ },
+ {
+  "slug": "tomorrows-problem",
+  "title": "Tomorrow’s Problem",
+  "album": "Berning Both Ends",
   "mile": 13,
   "explicit": false
  },
@@ -126,6 +989,13 @@
   "explicit": false
  },
  {
+  "slug": "trails-the-show",
+  "title": "Trail’s the Show",
+  "album": "Ashes to Glitter",
+  "mile": 6,
+  "explicit": false
+ },
+ {
   "slug": "treading-water",
   "title": "Treading Water",
   "album": "0% Contained 100% Untamed",
@@ -133,10 +1003,94 @@
   "explicit": true
  },
  {
+  "slug": "truth-from-the-noise",
+  "title": "Truth From the Noise",
+  "album": "Shake Well",
+  "mile": 10,
+  "explicit": false
+ },
+ {
+  "slug": "tupelo-honey",
+  "title": "Tupelo Honey",
+  "album": "Desert Bloom",
+  "mile": 15,
+  "explicit": false
+ },
+ {
+  "slug": "turkey-day-south",
+  "title": "Turkey Day South",
+  "album": "Old Dog, New Tricks",
+  "mile": 3,
+  "explicit": false
+ },
+ {
+  "slug": "two-hearted",
+  "title": "Two Hearted",
+  "album": "Shake Well",
+  "mile": 7,
+  "explicit": false
+ },
+ {
+  "slug": "two-step-sinner",
+  "title": "Two-Step Sinner",
+  "album": "Desert Bloom",
+  "mile": 1,
+  "explicit": false
+ },
+ {
+  "slug": "una-vida",
+  "title": "Una Vida",
+  "album": "Murmuration of Words",
+  "mile": 11,
+  "explicit": false
+ },
+ {
+  "slug": "vice-versa",
+  "title": "Vice Versa",
+  "album": "Zero Predictions",
+  "mile": 15,
+  "explicit": false
+ },
+ {
+  "slug": "walking-contradiction",
+  "title": "Walking Contradiction",
+  "album": "Zero Predictions",
+  "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "waltz-in-retreat",
+  "title": "Waltz in Retreat",
+  "album": "Out of Bounds",
+  "mile": 13,
+  "explicit": false
+ },
+ {
+  "slug": "wearing-the-good-dress",
+  "title": "Wearing the Good Dress",
+  "album": "Ashes to Glitter",
+  "mile": 12,
+  "explicit": false
+ },
+ {
+  "slug": "what-a-goddess-you-are",
+  "title": "What A Goddess You Are",
+  "album": "Zero Predictions",
+  "mile": 11,
+  "explicit": false
+ },
+ {
   "slug": "whose-mama-dis",
   "title": "Whose Mama Dis",
   "album": "0% Contained 100% Untamed",
   "mile": 16,
+  "explicit": false
+ },
+ {
+  "slug": "wind-through-the-pine",
+  "title": "Wind Through the Pine",
+  "album": "Murmuration of Words",
+  "mile": 1,
   "explicit": false
  },
  {
@@ -151,6 +1105,13 @@
   "title": "Zero Percent Contained",
   "album": "0% Contained 100% Untamed",
   "mile": 3,
+  "explicit": false
+ },
+ {
+  "slug": "zivjeli",
+  "title": "Živjeli",
+  "album": "Berning Both Ends",
+  "mile": 17,
   "explicit": false
  }
 ]
