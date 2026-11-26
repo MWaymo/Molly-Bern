@@ -424,7 +424,7 @@ footer p{margin:0}
     <p><a href="https://suno.com/album/dc3f149e-5918-4c9a-8bff-adb96e33b041" target="_blank" rel="noopener">Listen on Suno &rarr;</a></p>
   </div>
   <ol class="tracks next-tracks" aria-label="Freezer Bern track list">
-<li class="track"><span class="mile">Track 01</span><span class="tt">Temperature Teaser<span class="lyr">instrumental</span></span></li>
+<li class="track"><span class="mile">Track 01</span><span class="tt">Temperature Teaser</span></li>
 <li class="track"><span class="mile">Track 02</span><span class="tt">Freezer Bern</span></li>
 <li class="track"><span class="mile">Track 03</span><span class="tt">Cold Feet</span></li>
 <li class="track"><span class="mile">Track 04</span><span class="tt">Rock the Boat</span></li>
@@ -437,7 +437,7 @@ footer p{margin:0}
 <li class="track"><span class="mile">Track 11</span><span class="tt">Snowplow<span class="exp" title="Explicit">E</span></span></li>
 <li class="track"><span class="mile">Track 12</span><span class="tt">Dogwood White in April</span></li>
 <li class="track"><span class="mile">Track 13</span><span class="tt">A Loud, Crowded Table</span></li>
-<li class="track"><span class="mile">Track 14</span><span class="tt">Refrigerator Reprise<span class="lyr">instrumental</span></span></li>
+<li class="track"><span class="mile">Track 14</span><span class="tt">Refrigerator Reprise</span></li>
   </ol>
 </section>
 
@@ -530,14 +530,14 @@ footer p{margin:0}
 (function(){
   function slug(t){return t.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/['\u2019\u2018]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');}
   fetch('lyrics/songs.json?v='+Date.now(),{cache:'no-store'}).then(function(r){return r.ok?r.json():[];}).then(function(list){
-    var have={};list.forEach(function(e){have[e.slug]=1;});
+    var have={};list.forEach(function(e){have[e.slug]=e;});
     document.querySelectorAll('.track .tt').forEach(function(tt){
       var n=tt.firstChild;if(!n||n.nodeType!==3)return;
-      var title=n.nodeValue.trim(),sl=slug(title);if(!have[sl])return;
+      var title=n.nodeValue.trim(),sl=slug(title),en=have[sl];if(!en)return;
       var a=document.createElement('a');a.href='lyrics/'+sl+'.html';a.textContent=n.nodeValue;
-      a.setAttribute('aria-label',title+' lyrics');
+      a.setAttribute('aria-label',title+(en.instrumental?' (instrumental)':' lyrics'));
       tt.replaceChild(a,n);
-      var l=document.createElement('span');l.className='lyr';l.setAttribute('aria-hidden','true');l.textContent='lyrics';
+      var old=tt.querySelector('.lyr');if(old)old.remove();var l=document.createElement('span');l.className='lyr';l.setAttribute('aria-hidden','true');l.textContent=en.instrumental?'instrumental':'lyrics';
       a.after(l);
     });
   }).catch(function(){});
