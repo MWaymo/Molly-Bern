@@ -1,0 +1,86 @@
+[
+ {
+  "slug": "out-of-bounds",
+  "title": "Out of Bounds",
+  "album": "Out of Bounds",
+  "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "lets-elope",
+  "title": "Let's Elope",
+  "album": "Out of Bounds",
+  "mile": 3,
+  "explicit": false
+ },
+ {
+  "slug": "rulebreaker",
+  "title": "Rulebreaker",
+  "album": "Out of Bounds",
+  "mile": 4,
+  "explicit": false
+ },
+ {
+  "slug": "boundary-stone",
+  "title": "Boundary Stone",
+  "album": "Out of Bounds",
+  "mile": 5,
+  "explicit": false
+ },
+ {
+  "slug": "steady-in-her-growth",
+  "title": "Steady in Her Growth",
+  "album": "Out of Bounds",
+  "mile": 6,
+  "explicit": true
+ },
+ {
+  "slug": "argent-lining",
+  "title": "Argent Lining",
+  "album": "Out of Bounds",
+  "mile": 7,
+  "explicit": false
+ },
+ {
+  "slug": "outta-my-lane",
+  "title": "Outta My Lane",
+  "album": "Out of Bounds",
+  "mile": 8,
+  "explicit": false
+ },
+ {
+  "slug": "canter-on",
+  "title": "Canter On",
+  "album": "Out of Bounds",
+  "mile": 9,
+  "explicit": false
+ },
+ {
+  "slug": "just-in-case",
+  "title": "Just In Case",
+  "album": "Out of Bounds",
+  "mile": 10,
+  "explicit": false
+ },
+ {
+  "slug": "drumline",
+  "title": "Drumline",
+  "album": "Out of Bounds",
+  "mile": 11,
+  "explicit": false
+ },
+ {
+  "slug": "rearview",
+  "title": "Rearview",
+  "album": "Out of Bounds",
+  "mile": 12,
+  "explicit": false
+ },
+ {
+  "slug": "waltz-in-retreat",
+  "title": "Waltz in Retreat",
+  "album": "Out of Bounds",
+  "mile": 13,
+  "explicit": false
+ }
+]
