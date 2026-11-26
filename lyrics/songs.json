@@ -7,6 +7,13 @@
   "explicit": false
  },
  {
+  "slug": "a-loud-crowded-table",
+  "title": "A Loud, Crowded Table",
+  "album": "Freezer Bern",
+  "mile": 13,
+  "explicit": false
+ },
+ {
   "slug": "alice-palace",
   "title": "Alice Palace",
   "album": "0% Contained 100% Untamed",
@@ -18,6 +25,13 @@
   "title": "Ándale Americana!",
   "album": "Berning Both Ends",
   "mile": 1,
+  "explicit": false
+ },
+ {
+  "slug": "argent-lining",
+  "title": "Argent Lining",
+  "album": "Out of Bounds",
+  "mile": 7,
   "explicit": false
  },
  {
@@ -77,10 +91,24 @@
   "explicit": false
  },
  {
+  "slug": "black-suede-heels",
+  "title": "Black Suede Heels",
+  "album": "Desert Bloom",
+  "mile": 3,
+  "explicit": false
+ },
+ {
   "slug": "blondes-have-more-fun",
   "title": "Blondes Have More Fun",
   "album": "0% Contained 100% Untamed",
   "mile": 18,
+  "explicit": false
+ },
+ {
+  "slug": "boundary-stone",
+  "title": "Boundary Stone",
+  "album": "Out of Bounds",
+  "mile": 5,
   "explicit": false
  },
  {
@@ -112,6 +140,20 @@
   "explicit": false
  },
  {
+  "slug": "burning-inside",
+  "title": "Burning Inside",
+  "album": "Freezer Bern",
+  "mile": 7,
+  "explicit": false
+ },
+ {
+  "slug": "call-it-crazy-call-it-right",
+  "title": "Call It Crazy, Call It Right",
+  "album": "Freezer Bern",
+  "mile": 6,
+  "explicit": false
+ },
+ {
   "slug": "call-it-madness",
   "title": "Call It Madness",
   "album": "Berning Both Ends",
@@ -133,10 +175,38 @@
   "explicit": false
  },
  {
+  "slug": "canter-on",
+  "title": "Canter On",
+  "album": "Out of Bounds",
+  "mile": 9,
+  "explicit": false
+ },
+ {
   "slug": "cartwheels",
   "title": "Cartwheels",
   "album": "0% Contained 100% Untamed",
   "mile": 9,
+  "explicit": false
+ },
+ {
+  "slug": "closer",
+  "title": "Closer",
+  "album": "Desert Bloom",
+  "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "co-pilot",
+  "title": "Co-pilot",
+  "album": "Out of Bounds",
+  "mile": 15,
+  "explicit": false
+ },
+ {
+  "slug": "cold-feet",
+  "title": "Cold Feet",
+  "album": "Freezer Bern",
+  "mile": 3,
   "explicit": false
  },
  {
@@ -154,6 +224,13 @@
   "explicit": false
  },
  {
+  "slug": "dance-now-pray-later",
+  "title": "Dance Now, Pray Later",
+  "album": "Desert Bloom",
+  "mile": 5,
+  "explicit": false
+ },
+ {
   "slug": "darkest-before-dawn",
   "title": "Darkest Before Dawn",
   "album": "Murmuration of Words",
@@ -164,6 +241,13 @@
   "slug": "dead-of-night",
   "title": "Dead of Night",
   "album": "Murmuration of Words",
+  "mile": 9,
+  "explicit": false
+ },
+ {
+  "slug": "desert-bloom",
+  "title": "Desert Bloom",
+  "album": "Desert Bloom",
   "mile": 9,
   "explicit": false
  },
@@ -196,6 +280,27 @@
   "explicit": false
  },
  {
+  "slug": "dogwood-white-in-april",
+  "title": "Dogwood White in April",
+  "album": "Freezer Bern",
+  "mile": 12,
+  "explicit": false
+ },
+ {
+  "slug": "drumline",
+  "title": "Drumline",
+  "album": "Out of Bounds",
+  "mile": 11,
+  "explicit": false
+ },
+ {
+  "slug": "dust-devil",
+  "title": "Dust Devil",
+  "album": "Desert Bloom",
+  "mile": 11,
+  "explicit": false
+ },
+ {
   "slug": "electric-love",
   "title": "Electric Love",
   "album": "Ashes to Glitter",
@@ -224,10 +329,31 @@
   "explicit": true
  },
  {
+  "slug": "fashionably-late",
+  "title": "Fashionably Late",
+  "album": "Freezer Bern",
+  "mile": 5,
+  "explicit": false
+ },
+ {
+  "slug": "fever-dreams",
+  "title": "Fever Dreams",
+  "album": "Freezer Bern",
+  "mile": 9,
+  "explicit": true
+ },
+ {
   "slug": "fire-in-my-belly",
   "title": "Fire in My Belly",
   "album": "0% Contained 100% Untamed",
   "mile": 4,
+  "explicit": false
+ },
+ {
+  "slug": "freezer-bern",
+  "title": "Freezer Bern",
+  "album": "Freezer Bern",
+  "mile": 2,
   "explicit": false
  },
  {
@@ -322,6 +448,13 @@
   "explicit": false
  },
  {
+  "slug": "just-in-case",
+  "title": "Just In Case",
+  "album": "Out of Bounds",
+  "mile": 10,
+  "explicit": false
+ },
+ {
   "slug": "la-libertad",
   "title": "La Libertad",
   "album": "Ashes to Glitter",
@@ -340,6 +473,20 @@
   "title": "Laissez Les Bons Temps Rouler",
   "album": "Berning Both Ends",
   "mile": 4,
+  "explicit": false
+ },
+ {
+  "slug": "late-bloomer",
+  "title": "Late Bloomer",
+  "album": "Desert Bloom",
+  "mile": 8,
+  "explicit": false
+ },
+ {
+  "slug": "lets-elope",
+  "title": "Let's Elope",
+  "album": "Out of Bounds",
+  "mile": 3,
   "explicit": false
  },
  {
@@ -399,6 +546,13 @@
   "explicit": false
  },
  {
+  "slug": "mexico-city",
+  "title": "Mexico City",
+  "album": "Desert Bloom",
+  "mile": 13,
+  "explicit": false
+ },
+ {
   "slug": "mezcal-moon",
   "title": "Mezcal Moon",
   "album": "Berning Both Ends",
@@ -424,6 +578,13 @@
   "title": "Mind Over Matter",
   "album": "Murmuration of Words",
   "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "my-love-is-for-you",
+  "title": "My Love Is For You",
+  "album": "Freezer Bern",
+  "mile": 10,
   "explicit": false
  },
  {
@@ -462,6 +623,27 @@
   "explicit": false
  },
  {
+  "slug": "out-of-bounds",
+  "title": "Out of Bounds",
+  "album": "Out of Bounds",
+  "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "outta-my-lane",
+  "title": "Outta My Lane",
+  "album": "Out of Bounds",
+  "mile": 8,
+  "explicit": false
+ },
+ {
+  "slug": "pack-it-up",
+  "title": "Pack It Up",
+  "album": "Desert Bloom",
+  "mile": 4,
+  "explicit": false
+ },
+ {
   "slug": "paper-crown",
   "title": "Paper Crown",
   "album": "Zero Predictions",
@@ -480,6 +662,13 @@
   "title": "Perfect Day",
   "album": "Murmuration of Words",
   "mile": 12,
+  "explicit": false
+ },
+ {
+  "slug": "petrichor",
+  "title": "Petrichor",
+  "album": "Desert Bloom",
+  "mile": 16,
   "explicit": false
  },
  {
@@ -511,10 +700,39 @@
   "explicit": false
  },
  {
+  "slug": "rearview",
+  "title": "Rearview",
+  "album": "Out of Bounds",
+  "mile": 12,
+  "explicit": false
+ },
+ {
   "slug": "red-eye",
   "title": "Red-Eye",
   "album": "Berning Both Ends",
   "mile": 3,
+  "explicit": false
+ },
+ {
+  "slug": "refrigerator-reprise",
+  "title": "Refrigerator Reprise",
+  "album": "Freezer Bern",
+  "mile": 14,
+  "explicit": false,
+  "instrumental": true
+ },
+ {
+  "slug": "return-flight",
+  "title": "Return Flight",
+  "album": "Desert Bloom",
+  "mile": 10,
+  "explicit": false
+ },
+ {
+  "slug": "rhythm-is-my-religion",
+  "title": "Rhythm Is My Religion",
+  "album": "Out of Bounds",
+  "mile": 14,
   "explicit": false
  },
  {
@@ -525,6 +743,27 @@
   "explicit": false
  },
  {
+  "slug": "rock-the-boat",
+  "title": "Rock the Boat",
+  "album": "Freezer Bern",
+  "mile": 4,
+  "explicit": false
+ },
+ {
+  "slug": "rosemary",
+  "title": "Rosemary",
+  "album": "Desert Bloom",
+  "mile": 12,
+  "explicit": false
+ },
+ {
+  "slug": "rulebreaker",
+  "title": "Rulebreaker",
+  "album": "Out of Bounds",
+  "mile": 4,
+  "explicit": false
+ },
+ {
   "slug": "same-black-dress",
   "title": "Same Black Dress",
   "album": "0% Contained 100% Untamed",
@@ -532,10 +771,24 @@
   "explicit": false
  },
  {
+  "slug": "scorpion-tequila",
+  "title": "Scorpion Tequila",
+  "album": "Desert Bloom",
+  "mile": 7,
+  "explicit": false
+ },
+ {
   "slug": "set-the-stone-down",
   "title": "Set the Stone Down",
   "album": "Ashes to Glitter",
   "mile": 5,
+  "explicit": false
+ },
+ {
+  "slug": "seventy-one",
+  "title": "Seventy-One",
+  "album": "Freezer Bern",
+  "mile": 8,
   "explicit": false
  },
  {
@@ -560,6 +813,13 @@
   "explicit": false
  },
  {
+  "slug": "snowplow",
+  "title": "Snowplow",
+  "album": "Freezer Bern",
+  "mile": 11,
+  "explicit": true
+ },
+ {
   "slug": "somebody-done-me-wrong",
   "title": "Somebody Done Me Wrong",
   "album": "Zero Predictions",
@@ -572,6 +832,13 @@
   "album": "0% Contained 100% Untamed",
   "mile": 5,
   "explicit": false
+ },
+ {
+  "slug": "steady-in-her-growth",
+  "title": "Steady in Her Growth",
+  "album": "Out of Bounds",
+  "mile": 6,
+  "explicit": true
  },
  {
   "slug": "steal-away",
@@ -593,6 +860,14 @@
   "album": "Berning Both Ends",
   "mile": 11,
   "explicit": false
+ },
+ {
+  "slug": "temperature-teaser",
+  "title": "Temperature Teaser",
+  "album": "Freezer Bern",
+  "mile": 1,
+  "explicit": false,
+  "instrumental": true
  },
  {
   "slug": "thanks-for-the-wipers",
@@ -651,10 +926,24 @@
   "explicit": true
  },
  {
+  "slug": "tupelo-honey",
+  "title": "Tupelo Honey",
+  "album": "Desert Bloom",
+  "mile": 15,
+  "explicit": false
+ },
+ {
   "slug": "turkey-day-south",
   "title": "Turkey Day South",
   "album": "Old Dog, New Tricks",
   "mile": 3,
+  "explicit": false
+ },
+ {
+  "slug": "two-step-sinner",
+  "title": "Two-Step Sinner",
+  "album": "Desert Bloom",
+  "mile": 1,
   "explicit": false
  },
  {
@@ -676,6 +965,13 @@
   "title": "Walking Contradiction",
   "album": "Zero Predictions",
   "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "waltz-in-retreat",
+  "title": "Waltz in Retreat",
+  "album": "Out of Bounds",
+  "mile": 13,
   "explicit": false
  },
  {
