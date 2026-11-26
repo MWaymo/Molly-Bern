@@ -84,6 +84,13 @@
   "explicit": false
  },
  {
+  "slug": "be-here-now",
+  "title": "Be Here Now",
+  "album": "Shake Well",
+  "mile": 2,
+  "explicit": false
+ },
+ {
   "slug": "beware-the-phone-rots-an-ode-to-john-prine",
   "title": "Beware the Phone Rots",
   "album": "Berning Both Ends",
@@ -539,6 +546,13 @@
   "explicit": false
  },
  {
+  "slug": "magnolia",
+  "title": "Magnolia",
+  "album": "Shake Well",
+  "mile": 3,
+  "explicit": false
+ },
+ {
   "slug": "make-something",
   "title": "Make Something",
   "album": "Murmuration of Words",
@@ -581,6 +595,27 @@
   "explicit": false
  },
  {
+  "slug": "mirror-facing-a-mirror",
+  "title": "Mirror Facing a Mirror",
+  "album": "Shake Well",
+  "mile": 10,
+  "explicit": false
+ },
+ {
+  "slug": "miss-tambourina",
+  "title": "Miss Tambourina",
+  "album": "Shake Well",
+  "mile": 5,
+  "explicit": false
+ },
+ {
+  "slug": "mountains-beyond-mountains",
+  "title": "Mountains Beyond Mountains",
+  "album": "Shake Well",
+  "mile": 8,
+  "explicit": false
+ },
+ {
   "slug": "my-love-is-for-you",
   "title": "My Love Is For You",
   "album": "Freezer Bern",
@@ -620,6 +655,13 @@
   "title": "Nothing’s Been Found",
   "album": "Berning Both Ends",
   "mile": 2,
+  "explicit": false
+ },
+ {
+  "slug": "orange-blossom-mead",
+  "title": "Orange Blossom Mead",
+  "album": "Shake Well",
+  "mile": 4,
   "explicit": false
  },
  {
@@ -806,6 +848,13 @@
   "explicit": false
  },
  {
+  "slug": "slap-it-proper",
+  "title": "Slap It Proper",
+  "album": "Shake Well",
+  "mile": 13,
+  "explicit": false
+ },
+ {
   "slug": "smoke-and-sin",
   "title": "Smoke and Sin",
   "album": "Berning Both Ends",
@@ -877,6 +926,13 @@
   "explicit": false
  },
  {
+  "slug": "the-quiet-after",
+  "title": "The Quiet After",
+  "album": "Shake Well",
+  "mile": 11,
+  "explicit": false
+ },
+ {
   "slug": "the-staying-part",
   "title": "The Staying Part",
   "album": "Murmuration of Words",
@@ -884,10 +940,31 @@
   "explicit": false
  },
  {
+  "slug": "the-times-are-shifting",
+  "title": "The Times Are Shifting",
+  "album": "Shake Well",
+  "mile": 7,
+  "explicit": false
+ },
+ {
   "slug": "this-is-the-crumbling",
   "title": "This Is The Crumbling",
   "album": "Zero Predictions",
   "mile": 3,
+  "explicit": false
+ },
+ {
+  "slug": "till-the-oceans-run-dry",
+  "title": "Till the Oceans Run Dry",
+  "album": "Shake Well",
+  "mile": 6,
+  "explicit": false
+ },
+ {
+  "slug": "time-will-tell",
+  "title": "Time Will Tell",
+  "album": "Shake Well",
+  "mile": 1,
   "explicit": false
  },
  {
@@ -926,6 +1003,13 @@
   "explicit": true
  },
  {
+  "slug": "truth-from-the-noise",
+  "title": "Truth From the Noise",
+  "album": "Shake Well",
+  "mile": 9,
+  "explicit": false
+ },
+ {
   "slug": "tupelo-honey",
   "title": "Tupelo Honey",
   "album": "Desert Bloom",
@@ -937,6 +1021,13 @@
   "title": "Turkey Day South",
   "album": "Old Dog, New Tricks",
   "mile": 3,
+  "explicit": false
+ },
+ {
+  "slug": "two-hearted",
+  "title": "Two Hearted",
+  "album": "Shake Well",
+  "mile": 12,
   "explicit": false
  },
  {
